@@ -6,6 +6,8 @@
 
 Скупщик доступен через команду `/b` или `/buyer`, а также через NPC на спавне. Для автоматической продажи предметов используется команда `/buyer auto`.
 
+docs/lite-anarchy/osnovnye-mekhaniki/image.png
+![alt text](image-1.png)
 За продажу предметов игроки получают:
 - **Монеты** — основная игровая валюта
 - **Очки скупщика** — используются для покупок в магазине скупщика и увеличения коэффициента
@@ -139,3 +141,5 @@
 | **Осколочное яйцо** | <!-- wiki[buyer-shop-shard-egg-price] -->180<!-- /wiki --> | — |
 | **Золотая кирка Джейка** | <!-- wiki[buyer-shop-jack-pickaxe-price] -->320<!-- /wiki --> | — |
 | **Книга зачарования "Фермер II"** | <!-- wiki[buyer-shop-farmer-book-price] -->280<!-- /wiki --> | — |
+
+docs/lite-anarchy/osnovnye-mekhaniki/image-1.png
